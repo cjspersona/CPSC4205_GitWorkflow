@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 name = "John Doe"
 major = "Information Technology"
 graduation_year = 2025
@@ -11,3 +12,6 @@ print(f"Major: {major}")
 print(f"Graduation Year: {graduation_year}")
 print(f"Email📧: {email}\n")
 print("==========================================")
+=======
+
+>>>>>>> Stashed changes
